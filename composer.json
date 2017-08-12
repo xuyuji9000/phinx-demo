@@ -1,0 +1,12 @@
+{
+    "name": "yogiman/phinx-demo",
+    "authors": [
+        {
+            "name": "Karl Xu",
+            "email": "karl.yogi.xu@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "^0.8.1"
+    }
+}
